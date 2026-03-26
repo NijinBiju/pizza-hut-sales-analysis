@@ -13,4 +13,4 @@ This project analyzes global electric vehicle adoption trends using Power BI.
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](PIZZASALES.png)
